@@ -1,0 +1,3 @@
+v1.3.1_public
+接线方法:CS:P3.0    RES:P3.1    A0:P3.2     SCLK:P1.6   SDA:P1.7
+当前内存占用情况：data：60      xdata：101      code：11503
