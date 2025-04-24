@@ -8,5 +8,5 @@ v1.3.1_public
 显示屏使用12048LCD屏幕，驱动IC为ST7567，显示屏具体参数后续更新，也可联系作者获取。
 
 接线方法:
-CS:P3.0    RES:P3.1    A0:P3.2     SCLK:P1.6   SDA:P1.7    key1(左键):P2.1     key2(右键):P2.2    key3(中键):P2.0gi 
+CS:P3.0    RES:P3.1    A0:P3.2     SCLK:P1.6   SDA:P1.7    key1(左键):P2.1     key2(右键):P2.2    key3(中键):P2.0 
 当前内存占用情况：data：60      xdata：101      code：11503
